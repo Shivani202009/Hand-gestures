@@ -1,0 +1,19 @@
+body{
+    font-size: 22px;
+    background-image: linear-gradient(to right top, #6dfbfb, #46fceb, #22fcd5, #21fbb8, #40f996, #61f982, #7df96c, #96f855, #b1fa4f, #c9fc4c, #e1fe4b, #f7ff4c);
+
+}
+
+#camera , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+#heading{
+    border-radius: 20px;
+    font-size: 25px;
+    letter-spacing: 5px;
+  }
+  
